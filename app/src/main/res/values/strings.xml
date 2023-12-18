@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">mercadoBitcoin</string>
+    <string name="exchanges_title">Exchanges</string>
+    <string name="error_message">Something went wrong, try again later</string>
+    <string name="volume_one_hour_usd">Volume one hour(USD)</string>
+    <string name="volume_one_month">Volume one month(USD)</string>
+    <string name="volume_one_day">Volume one day(USD)</string>
+    <string name="exchange_id">Exchange Id</string>
+    <string name="back">back</string>
+</resources>
