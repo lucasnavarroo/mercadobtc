@@ -1,4 +1,4 @@
-package com.example.mercadobitcoin.presentation.list.view
+package com.example.mercadobitcoin.presentation.list.view.state
 
 import com.example.mercadobitcoin.presentation.list.model.ExchangeUI
 

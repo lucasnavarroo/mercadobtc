@@ -1,4 +1,4 @@
-package com.example.mercadobitcoin.presentation.details
+package com.example.mercadobitcoin.presentation.components
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Row

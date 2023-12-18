@@ -16,7 +16,8 @@ import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.unit.dp
 import com.example.mercadobitcoin.R
 import com.example.mercadobitcoin.core.LocalSpacing
-import com.example.mercadobitcoin.presentation.ExchangeCardHeader
+import com.example.mercadobitcoin.presentation.components.ExchangeCardHeader
+import com.example.mercadobitcoin.presentation.components.ExchangeTextInfo
 import com.example.mercadobitcoin.presentation.list.model.ExchangeUI
 
 @Composable

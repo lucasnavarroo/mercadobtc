@@ -1,4 +1,4 @@
-package com.example.mercadobitcoin.presentation
+package com.example.mercadobitcoin.presentation.components
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.clickable

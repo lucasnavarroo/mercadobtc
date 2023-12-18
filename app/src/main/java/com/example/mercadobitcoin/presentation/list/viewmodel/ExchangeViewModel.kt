@@ -7,11 +7,9 @@ import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.example.mercadobitcoin.R
 import com.example.mercadobitcoin.core.UiEvent
-import com.example.mercadobitcoin.domain.model.Exchange
 import com.example.mercadobitcoin.domain.usecase.ExchangesUseCase
-import com.example.mercadobitcoin.presentation.list.view.ExchangeEvent
-import com.example.mercadobitcoin.presentation.list.view.ExchangeState
-import com.example.mercadobitcoin.presentation.list.model.ExchangeUI
+import com.example.mercadobitcoin.presentation.list.view.state.ExchangeEvent
+import com.example.mercadobitcoin.presentation.list.view.state.ExchangeState
 import com.example.mercadobitcoin.presentation.list.view.mappers.toPresentation
 import kotlinx.coroutines.channels.Channel
 import kotlinx.coroutines.flow.receiveAsFlow

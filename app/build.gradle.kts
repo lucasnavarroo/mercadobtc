@@ -78,4 +78,10 @@ dependencies {
     implementation("com.squareup.okhttp3:okhttp:5.0.0-alpha.2")
     implementation("com.squareup.okhttp3:logging-interceptor:5.0.0-alpha.2")
     implementation("io.insert-koin:koin-android:3.3.3")
+    implementation("com.squareup.okhttp3:mockwebserver:4.9.3")
+    implementation("com.google.truth:truth:1.1.3")
+    implementation("io.mockk:mockk-android:1.10.0")
+    implementation("io.mockk:mockk:1.10.0")
+
+    testImplementation(kotlin("test"))
 }
