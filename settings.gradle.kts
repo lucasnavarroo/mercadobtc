@@ -10,8 +10,14 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
+        jcenter()
     }
 }
 
 rootProject.name = "mercadoBitcoin"
 include(":app")
+include(":exchanges")
+include(":exchanges:exchanges_domain")
+include(":exchanges:exchanges_data")
+include(":exchanges:exchanges_presentation")
+include(":core")
